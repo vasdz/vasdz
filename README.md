@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=36BCF7&background=00000000&width=600&lines=Senior+C%2B%2B%2FCore+Developer;x86_64+ASM+Specialist;High-Performance+Computing;Zero-cost+Abstractions" alt="Header Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=36BCF7&background=00000000&width=600&lines=+C%2B%2B%2FCore+Developer;x86_64+ASM+Specialist;High-Performance+Computing;Zero-cost+Abstractions" alt="Header Typing Animation" />
 </h1>
 
 <p align="center">
