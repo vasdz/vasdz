@@ -1,19 +1,23 @@
 <h1 align="center">Привет 👋, я Александр (vasdz)</h1>
-<h3 align="center">C/C++ и системный разработчик, ассемблерщик, изучаю безопасность и оптимизацию</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=C%2FC%2B%2B+Developer;Assembler+Lover;Cybersecurity+Learner;System+Software+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ### 🧠 О себе
 
+- 🔭 Сейчас работаю над: **PolarLauncher (лаунчер для Minecraft), C++ клиент-серверные приложения, пентест и криптография**
 - 🌱 Учусь и прокачиваю: **Ассемблер, безопасность, Qt, системное программирование**
 - 💬 Спрашивайте меня о: **C++, Qt, низкоуровневом коде, архитектуре систем**
 - ⚡ Факт: люблю делать мощные вещи из минимальных ресурсов
 
 ---
 
-### 📈 GitHub Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasdz&show_icons=true&theme=tokyonight)
+### 📈 Статистика
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasdz&layout=compact&theme=tokyonight)](https://github.com/vasdz)
 
@@ -47,4 +51,18 @@
 ---
 
 ### 🧠 Цитата дня
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🐍 Змейка активности
+
+![snake gif](https://github.com/vasdz/vasdz/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 👁️ Просмотры профиля
+
+![Profile views](https://komarev.com/ghpvc/?username=vasdz&style=flat-square&color=blue)
+
