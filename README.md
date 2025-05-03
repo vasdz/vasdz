@@ -53,11 +53,6 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-### 🐍 Змейка активности
-
-![snake gif](https://github.com/vasdz/vasdz/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
