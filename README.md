@@ -39,7 +39,7 @@
 ---
 
 ### 🔗 Связаться со мной
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твоя_ссылка_если_есть)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasdz1)
 
 ---
 
