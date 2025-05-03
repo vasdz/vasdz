@@ -1,34 +1,66 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=36BCF7&background=00000000&width=600&lines=+C%2B%2B%2FCore+Developer;x86_64+ASM+Specialist;High-Performance+Computing;Zero-cost+Abstractions" alt="Header Typing Animation" />
-</h1>
+<h1 align="center">Привет, я Александр 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/yourprofile/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
-  </a>
-  <a href="https://t.me/yourprofile">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+  <b>Системный разработчик | Специалист по безопасности | Open Source Contributor</b><br>
+  <b>C++ / C / Assembler / Qt / InfoSec</b>
 </p>
 
 ---
 
-## 🔥 **Technology Radar**
+### 🧠 Немного обо мне:
+- 🔬 Занимаюсь системным программированием и разработкой безопасных клиент-серверных решений
+- 💼 Основатель KiraNet – компании по информационной безопасности
+- 🛠️ Работаю с низкоуровневыми технологиями: C, C++, Assembler, OpenSSL, сокеты
+- 🎮 В свободное время разрабатываю лаунчер для Minecraft: PolarLauncher
 
-```cpp
- Core competencies
-enum class Expertise : uint8_t {
-    Modern_Cpp = 0x1,     // C++17/20/23
-    Low_Level_C = 0x2,    // ISO C11/C17
-    Python = 0x4,         // CPython internals
-    x86_ASM = 0x8,        // NASM/YASM
-    Compiler_Toolchains = 0x10,
-    Performance_Opt = 0x20,
-    Multithreading = 0x40
-};
+---
 
-<p align="center"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Assembly-FF9900?style=for-the-badge&logo=asm&logoColor=white"/> <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/> </p>
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 Активность
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
+
+---
+
+### 🌆 Skyline 3D (Генерируй на [skyline.github.com](https://skyline.github.com/) и добавь картинку или ссылку)
+
+<p align="center">
+  <img src="https://your-skyline-image.png" width="600" alt="GitHub Skyline">
+</p>
+
+---
+
+### 👀 Просмотры профиля
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green)
+
+---
+
+### 📌 Цитата дня
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+> _Профиль оформлен вручную и с уважением к реальному коду, а не маркетингу._
+
+---
 
