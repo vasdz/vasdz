@@ -1,0 +1,35 @@
+name: Metrics
+on:
+  # Обновление раз в сутки (в полночь)
+  schedule: [{cron: "0 0 * * *"}]
+  # Возможность запустить вручную
+  workflow_dispatch:
+  # Обновление при пуше в мастер (чтобы сразу проверить работу)
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Токен, который нужно создать (см. инструкцию ниже)
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Настройки вывода
+          user: vasdz
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Moscow
+          filename: github-metrics.svg
+          
+          # Настройки языков (самое важное для тебя)
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, jupyter notebook
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: "github"
+          plugin_languages_details: bytes-size, percentage
