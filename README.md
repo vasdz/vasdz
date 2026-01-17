@@ -15,7 +15,6 @@
 - 🔭 **Сейчас работаю над:** Оптимизацией RAG-пайплайнов и квантованием LLM для локального инференса.
 - 🧠 **Ключевые компетенции:**
     - **ML Engineering:** PyTorch, Hugging Face, Scikit-learn.
-    - **LLM Ops:** RAG (Retrieval Augmented Generation), Fine-tuning (LoRA/QLoRA), Prompt Engineering.
     - **Deployment:** Docker, FastAPI, ONNX Runtime.
     - **Systems:** C++, Linux Kernel, Low-level optimization.
 
@@ -28,7 +27,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   
   <br> <!-- New Line -->
   
@@ -36,15 +34,31 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
   <br> <!-- New Line -->
 
-  <!-- Systems Background (Unique Selling Point) -->
+  <!-- Systems Background -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+### 📊 Инженерная статистика (Metrics)
+
+<!-- Сюда GitHub Action вставит картинку с метриками -->
+<div align="center">
+  <img src="https://github.com/vasdz/vasdz/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
+---
+
+### 🐍 Активность (Snake Animation)
+
+<!-- Сюда GitHub Action вставит змейку -->
+<div align="center">
+  <img src="https://github.com/vasdz/vasdz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
+</div>
 
 ---
 
@@ -54,15 +68,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vasdz&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
----
-
-### 📈 Инженерная статистика
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasdz&layout=compact&theme=tokyonight&hide=html,css,makefile)](https://github.com/vasdz)
-
----
-
 ### 🔗 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasdz1)
-
-
