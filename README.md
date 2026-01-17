@@ -62,11 +62,5 @@
 
 ---
 
-### 🏆 Достижения
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vasdz&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
 ### 🔗 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vasdz1)
