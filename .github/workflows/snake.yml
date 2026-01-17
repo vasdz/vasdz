@@ -1,15 +1,18 @@
 name: Generate Snake
 
 on:
-  # Запуск каждые 12 часов
   schedule:
     - cron: "0 */12 * * *" 
-  # Возможность запустить кнопку вручную
   workflow_dispatch:
-  
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+
+    permissions:
+      contents: write
+      
     steps:
       - uses: actions/checkout@v3
       
